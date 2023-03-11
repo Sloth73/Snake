@@ -157,3 +157,4 @@ function resetFoodPosition() {
         foodPositionY = (Math.floor(Math.random() * tileCountY) * tileSize);
     
 }
+

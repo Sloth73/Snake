@@ -1,0 +1,1 @@
+This game was transfered from another repository. To see all commits go to IT-Step -> Snake -> History
